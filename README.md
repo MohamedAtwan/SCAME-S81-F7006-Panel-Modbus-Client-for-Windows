@@ -127,7 +127,7 @@ responsible for authorization, isolations, and safe test conditions.
 
 ## License
 
-Copyright © 2026 [Copyright Holder]. All rights reserved.
+Copyright © 2026 Mohamed Aboraya. All rights reserved.
 This software is distributed under a Personal Noncommercial Software License.
 Free for personal, educational, and noncommercial use.
 Commercial and professional use is strictly prohibited without a separately purchased commercial license.
