@@ -124,3 +124,14 @@ status changes, and errors without logging every successful polling cycle.
 Reset and Evacuate can directly affect the fire panel and connected equipment.
 The software asks for confirmation before every write, but the operator remains
 responsible for authorization, isolations, and safe test conditions.
+
+## License
+
+Copyright © 2026 [Copyright Holder]. All rights reserved.
+This software is distributed under a Personal Noncommercial Software License.
+Free for personal, educational, and noncommercial use.
+Commercial and professional use is strictly prohibited without a separately purchased commercial license.
+Internal company use, industrial commissioning, engineering services, and commercial testing require a paid commercial license.
+Unauthorized commercial redistribution, resale, or integration into commercial products is prohibited.
+For commercial licensing inquiries, contact: [Licensing Email Address].
+See LICENSE.md for the complete license terms.
